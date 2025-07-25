@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carbonemissioncalculator/static/css/main.1318efb1.css",
+    "main.js": "/carbonemissioncalculator/static/js/main.f77d657b.js",
+    "static/js/453.f93ffd57.chunk.js": "/carbonemissioncalculator/static/js/453.f93ffd57.chunk.js",
+    "index.html": "/carbonemissioncalculator/index.html",
+    "main.1318efb1.css.map": "/carbonemissioncalculator/static/css/main.1318efb1.css.map",
+    "main.f77d657b.js.map": "/carbonemissioncalculator/static/js/main.f77d657b.js.map",
+    "453.f93ffd57.chunk.js.map": "/carbonemissioncalculator/static/js/453.f93ffd57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1318efb1.css",
+    "static/js/main.f77d657b.js"
+  ]
+}
