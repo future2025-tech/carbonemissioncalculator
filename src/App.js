@@ -417,7 +417,7 @@ function App() {
                 <span>Switch to LED bulbs to reduce energy consumption</span>
               </li>
               <li className="tip-item">
-                <FaWalking className="tip-icon green-icon" />
+                <FaWalking className="tip-icon violet-icon" />
                 <span>Use public transport or bike for short trips</span>
               </li>
               <li className="tip-item">
